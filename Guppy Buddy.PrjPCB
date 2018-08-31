@@ -727,14 +727,6 @@ Variation18=Designator=J6|UniqueId=\GJTIGLHR\ASOKTBJK|Kind=1|AlternatePart=
 Variation19=Designator=R52|UniqueId=\TFNQKSON\SJDJICAS\IBXDNPER|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Guppy Buddy\Design Rule Check - BB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Guppy Buddy\Mechanical\Mechanical\Guppy Buddy.step
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Company
 Value=Cospan Design LLC
@@ -877,7 +869,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPEBFF0A (HP ENVY 4500 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
