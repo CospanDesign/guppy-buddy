@@ -1,0 +1,4 @@
+Octavo OrCad Library Change Log
+*******************************
+V1 - 09/18/2017 - Initial Release
+V2 - 04/23/2018 - Updates to uniquify names to allow easier use with Allegro
