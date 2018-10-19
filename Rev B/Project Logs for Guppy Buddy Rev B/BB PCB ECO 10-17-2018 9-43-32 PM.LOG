@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=BGND Pin=C26-1
+Removed Pin From Net: NetName=BGND Pin=C27-1
+Removed Pin From Net: NetName=UART0_RX Pin=J20-1
+Removed Pin From Net: NetName=UART0_TX Pin=J20-2
+Removed Pin From Net: NetName=V3P3 Pin=J20-3
+Removed Pin From Net: NetName=GND Pin=J20-4
+Removed Pin From Net: NetName=I2C2_SCL Pin=J21-1
+Removed Pin From Net: NetName=I2C2_SDA Pin=J21-2
+Removed Pin From Net: NetName=V3P3 Pin=J21-3
+Removed Pin From Net: NetName=GND Pin=J21-4
+Removed Pin From Net: NetName=GPIO4 Pin=J22-1
+Removed Pin From Net: NetName=GPIO5 Pin=J22-2
+Removed Pin From Net: NetName=V3P3 Pin=J22-3
+Removed Pin From Net: NetName=GND Pin=J22-4
+Removed Pin From Net: NetName=GPIO6 Pin=J23-1
+Removed Pin From Net: NetName=GPIO7 Pin=J23-2
+Removed Pin From Net: NetName=V3P3 Pin=J23-3
+Removed Pin From Net: NetName=GND Pin=J23-4
+Removed Pin From Net: NetName=SPI0_SCLK Pin=J24-1
+Removed Pin From Net: NetName=SPI0_MISO Pin=J24-2
+Removed Pin From Net: NetName=SPI0_MOSI Pin=J24-3
+Removed Pin From Net: NetName=SPI0_CS0 Pin=J24-4
+Removed Pin From Net: NetName=V3P3 Pin=J25-1
+Removed Pin From Net: NetName=V3P3 Pin=J25-3
+Removed Pin From Net: NetName=GND Pin=J25-4
+Removed Pin From Net: NetName=BGND Pin=J28-1
+Removed Pin From Net: NetName=BGND Pin=J28-2
+Removed Pin From Net: NetName=BGND Pin=J28-3
+Removed Pin From Net: NetName=BGND Pin=J28-4
+Removed Pin From Net: NetName=GND Pin=NT1-1
+Removed Pin From Net: NetName=BGND Pin=NT1-2
+Removed Pin From Net: NetName=TS1 Pin=R38-1
+Removed Pin From Net: NetName=BGND Pin=R38-2
+Removed Pin From Net: NetName=TS2 Pin=R39-1
+Removed Pin From Net: NetName=BGND Pin=R39-2
+Removed Pin From Net: NetName=TS3 Pin=R40-1
+Removed Pin From Net: NetName=BGND Pin=R40-2
+Removed Pin From Net: NetName=TS4 Pin=R41-1
+Removed Pin From Net: NetName=BGND Pin=R41-2
+Removed Pin From Net: NetName=V3P3 Pin=R140-1
+Removed Pin From Net: NetName=SPI0_CS0 Pin=R140-2
+Removed Pin From Net: NetName=BGND Pin=U1-24
+Added Component: Designator=T12(ERA-0603-SOLDER_JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=T19(ERA-0603-SOLDER_JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=J28-1
+Added Pin To Net: NetName=GND Pin=J28-2
+Added Pin To Net: NetName=GND Pin=J28-3
+Added Pin To Net: NetName=GND Pin=J28-4
+Added Pin To Net: NetName=VSYS Pin=T12-1
+Added Pin To Net: NetName=NetC15_2 Pin=T12-2
+Added Pin To Net: NetName=ALERT Pin=T19-1
+Added Pin To Net: NetName=GND Pin=T19-2
+Added Pin To Net: NetName=GND Pin=U1-24
