@@ -385,20 +385,6 @@
 				"requirementId": "MyGPIO3",
 				"interfacePin": "gpio[1]"
 			},
-			"R7": {
-				"nameDecoratorText": "R7",
-				"assignedToName": "gpio2[2]",
-				"errorText": "",
-				"warningText": "",
-				"errorDetailsText": [],
-				"warningDetailsText": [],
-				"errorCount": 0,
-				"warningCount": 0,
-				"nonSolverErrorCount": 0,
-				"requirementName": "GPIO2",
-				"requirementId": "MyGPIO3",
-				"interfacePin": "gpio[2]"
-			},
 			"T7": {
 				"nameDecoratorText": "T7",
 				"assignedToName": "gpio2[3]",
@@ -1395,6 +1381,20 @@
 				"requirementId": "MySPI1",
 				"interfacePin": "CS0"
 			},
+			"R7": {
+				"nameDecoratorText": "R7",
+				"assignedToName": "timer4",
+				"errorText": "",
+				"warningText": "",
+				"errorDetailsText": [],
+				"warningDetailsText": [],
+				"errorCount": 0,
+				"warningCount": 0,
+				"nonSolverErrorCount": 0,
+				"requirementName": "PWM Timer",
+				"requirementId": "MyTIMER1",
+				"interfacePin": "timer"
+			},
 			"E15": {
 				"nameDecoratorText": "E15",
 				"assignedToName": "uart0_rxd",
@@ -1579,7 +1579,7 @@
 			"vddshv2": "3.3V"
 		},
 		"powerDomainSettingsEnabled": true,
-		"isLoad": false,
+		"isLoad": true,
 		"isBoard": false,
 		"groupRequirements": {
 			"ADC": {
@@ -2372,7 +2372,7 @@
 					"errorCount": 0,
 					"warningCount": 0,
 					"nonSolverErrorCount": 0,
-					"gpioPinsUsed": 27
+					"gpioPinsUsed": 26
 				},
 				"nonSolverSolution": {
 					"nameDecoratorText": "",
@@ -4971,7 +4971,7 @@
 							"errorCount": 0,
 							"warningCount": 0,
 							"nonSolverErrorCount": 0,
-							"gpioPinsUsed": 4
+							"gpioPinsUsed": 3
 						},
 						"nonSolverSolution": {
 							"nameDecoratorText": "",
@@ -5065,10 +5065,10 @@
 								}
 							},
 							{
-								"used": true,
+								"used": false,
 								"solution": {
-									"nameDecoratorText": "gpio2[2]",
-									"assignedToName": "R7",
+									"nameDecoratorText": "",
+									"assignedToName": "",
 									"errorText": "",
 									"warningText": "",
 									"errorDetailsText": [],
@@ -11724,7 +11724,8 @@
 					"warningDetailsText": [],
 					"errorCount": 0,
 					"warningCount": 0,
-					"nonSolverErrorCount": 0
+					"nonSolverErrorCount": 0,
+					"gpioPinsUsed": 1
 				},
 				"nonSolverSolution": {
 					"nameDecoratorText": "",
@@ -11737,8 +11738,116 @@
 					"warningCount": 0,
 					"nonSolverErrorCount": 0
 				},
-				"requirementsNameIndex": 1,
-				"requirements": [],
+				"requirementsNameIndex": 2,
+				"requirements": [
+					{
+						"used": true,
+						"solution": {
+							"nameDecoratorText": "",
+							"assignedToName": "",
+							"errorText": "",
+							"warningText": "",
+							"errorDetailsText": [],
+							"warningDetailsText": [],
+							"errorCount": 0,
+							"warningCount": 0,
+							"nonSolverErrorCount": 0,
+							"gpioPinsUsed": 1
+						},
+						"nonSolverSolution": {
+							"nameDecoratorText": "",
+							"assignedToName": "",
+							"errorText": "",
+							"warningText": "",
+							"errorDetailsText": [],
+							"warningDetailsText": [],
+							"errorCount": 0,
+							"warningCount": 0,
+							"nonSolverErrorCount": 0
+						},
+						"selectedInstance": "TIMER4",
+						"selectedVoltage": "3.3V",
+						"selectedUseCase": "TIMER_0",
+						"pinRequirements": [
+							{
+								"used": true,
+								"solution": {
+									"nameDecoratorText": "timer4",
+									"assignedToName": "R7",
+									"errorText": "",
+									"warningText": "",
+									"errorDetailsText": [],
+									"warningDetailsText": [],
+									"errorCount": 0,
+									"warningCount": 0,
+									"nonSolverErrorCount": 0
+								},
+								"nonSolverSolution": {
+									"nameDecoratorText": "",
+									"assignedToName": "",
+									"errorText": "",
+									"warningText": "",
+									"errorDetailsText": [],
+									"warningDetailsText": [],
+									"errorCount": 0,
+									"warningCount": 0,
+									"nonSolverErrorCount": 0
+								},
+								"assignedToName": "R7",
+								"removable": false,
+								"type": "Single",
+								"name": "timer",
+								"interfacePinName": "timer",
+								"configurables": {
+									"pu_pd": {
+										"name": "pd",
+										"displayName": "Pull Down",
+										"value": "N/A"
+									},
+									"rx": true
+								}
+							}
+						],
+						"peripheralSolution": {
+							"nameDecoratorText": "",
+							"assignedToName": "TIMER4",
+							"errorText": "",
+							"warningText": "",
+							"errorDetailsText": [],
+							"warningDetailsText": [],
+							"errorCount": 0,
+							"warningCount": 0,
+							"nonSolverErrorCount": 0,
+							"ioSet": "TIMER4_IOSet_4"
+						},
+						"voltageSolution": {
+							"nameDecoratorText": "",
+							"assignedToName": "3.3V",
+							"errorText": "",
+							"warningText": "",
+							"errorDetailsText": [],
+							"warningDetailsText": [],
+							"errorCount": 0,
+							"warningCount": 0,
+							"nonSolverErrorCount": 0
+						},
+						"isNameValid": true,
+						"assignedToName": "",
+						"id": "MyTIMER1",
+						"name": "PWM Timer",
+						"interfaceName": "TIMER",
+						"pinConfigurablesHeader": {
+							"pu_pd": {
+								"name": "nopull",
+								"displayName": "No Pull",
+								"value": "N/A"
+							},
+							"rx": false
+						},
+						"configurables": {},
+						"requirementNameErrorMessage": ""
+					}
+				],
 				"name": "TIMER",
 				"id": "TIMER"
 			},
