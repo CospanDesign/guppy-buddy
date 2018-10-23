@@ -446,6 +446,40 @@ GenerateClassCluster=0
 DocumentUniqueId=QEJWVAVF
 
 [Document25]
+DocumentPath=Schematics\FPGA Config GPMC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNYYFUGC
+
+[Document26]
+DocumentPath=Schematics\FPGA Cart.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQIKYJUB
+
+[Document27]
 DocumentPath=Schematics\Audio Codec.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFMJXTRE
 
-[Document26]
+[Document28]
 DocumentPath=Schematics\Audio Codec.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +513,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document29]
+DocumentPath=Schematics\FPGA SDRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LKEKEUAV
+
+[Document30]
 DocumentPath=Schematics\Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,57 +546,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOKKTEMV
-
-[Document28]
-DocumentPath=Schematics\1.8V Regulator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RQOGVABW
-
-[Document29]
-DocumentPath=Schematics\3.3V Regulator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QHVPCJAC
-
-[Document30]
-DocumentPath=Schematics\5V Regulator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XNEGGWGJ
 
 [Document31]
 DocumentPath=Schematics\Cart.Harness
@@ -718,7 +718,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=Schematics\FPGA SDRAM.SchDoc
+DocumentPath=Schematics\SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -813,24 +813,24 @@ Variation19=Designator=R52|UniqueId=\TFNQKSON\SJDJICAS\IBXDNPER|Kind=1|Alternate
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=A
+Name=Company
+Value=Cospan Design LLC
 
 [Parameter2]
-Name=Project
-Value=Guppy Buddy
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Guppy Buddy
 
 [Parameter5]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=A
 
 [Configuration1]
 Name=Default Configuration
