@@ -455,12 +455,12 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VNYYFUGC
+DocumentUniqueId=EOIPFIRD
 
 [Document26]
 DocumentPath=Schematics\FPGA Cart.SchDoc
@@ -472,7 +472,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -523,7 +523,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -735,23 +735,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OOUQFPFU
 
 [Document42]
-DocumentPath=Schematics\FPGA SDRAM.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document43]
 DocumentPath=Schematics\Power Main Regulators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAFXVJAD
 
-[Document44]
+[Document43]
 DocumentPath=Schematics\Power Main Regulators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,24 +796,24 @@ Variation19=Designator=R52|UniqueId=\TFNQKSON\SJDJICAS\IBXDNPER|Kind=1|Alternate
 ParamVariationCount=0
 
 [Parameter1]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=A
 
 [Parameter2]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Guppy Buddy
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=Project
-Value=Guppy Buddy
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter5]
-Name=Revision
-Value=A
+Name=Company
+Value=Cospan Design LLC
 
 [Configuration1]
 Name=Default Configuration
