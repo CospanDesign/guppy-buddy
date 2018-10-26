@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR48_2 Pin=S2-2
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=FPGA_RST_N Pin=S17-1
+Removed Pin From Net: NetName=GND Pin=S17-3
+Removed Pin From Net: NetName=GND Pin=S17-4
+Added Component: Designator=T2(ERA-0603-SOLDER_JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FPGA_RST_N Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2

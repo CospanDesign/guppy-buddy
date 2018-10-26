@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LCD_ENABLE Pin=R177-1
+Added Pin To Net: NetName=LCD_ENABLE Pin=R123-1
+Added Pin To Net: NetName=LCD_AC_BIAS_EN Pin=R177-1
+Added Pin To Net: NetName=R_LCD_AC_BIAS_EN Pin=R177-2
+Added Net: Name=R_LCD_AC_BIAS_EN

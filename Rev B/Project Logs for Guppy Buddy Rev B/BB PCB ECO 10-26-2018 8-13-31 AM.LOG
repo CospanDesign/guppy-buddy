@@ -1,0 +1,6 @@
+Change Component Description : Designator=U10 Old Description=Imported New Description=IC REG LDO 1.8V/1.2V 0.2A 6WSON
+Change Component Library : Designator=U10 Old Library=Cospan Design.IntLib New Library=Cospan Design.SchLib
+Added Pin To Net: NetName=SPI0_MOSI Pin=U8-P11
+Added Pin To Net: NetName=SPI0_MISO Pin=U8-P12
+Added Pin To Net: NetName=SPI0_SCLK Pin=U8-R11
+Added Pin To Net: NetName=SPI0_CS0 Pin=U8-R12

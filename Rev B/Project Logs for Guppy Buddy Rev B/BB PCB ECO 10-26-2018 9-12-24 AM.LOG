@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SPI0_CS0 Pin=R167-2
+Added Pin To Net: NetName=SPI0_SCLK Pin=R168-2
+Added Pin To Net: NetName=SPI0_CS0 Pin=U17-1
+Added Pin To Net: NetName=SPI0_MISO Pin=U17-2
+Added Pin To Net: NetName=SPI0_MOSI Pin=U17-5
+Added Pin To Net: NetName=SPI0_SCLK Pin=U17-6
