@@ -11,7 +11,7 @@ TimestampOutput=0
 SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
-PinSwapBy_Pin=1
+PinSwapBy_Pin=0
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
@@ -452,7 +452,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -469,7 +469,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -520,7 +520,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -864,24 +864,24 @@ Variation19=Designator=R52|UniqueId=\TFNQKSON\SJDJICAS\IBXDNPER|Kind=1|Alternate
 ParamVariationCount=0
 
 [Parameter1]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=A
 
 [Parameter2]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Guppy Buddy
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=Project
-Value=Guppy Buddy
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter5]
-Name=Revision
-Value=A
+Name=Company
+Value=Cospan Design LLC
 
 [Configuration1]
 Name=Default Configuration
