@@ -1,0 +1,16 @@
+Remove Pin=U8A-A1 From Net=B1_DAT
+Remove Pin=U8A-C4 From Net=B1_DAT
+Remove Pin=U8A-C5 From Net=B1_DAT
+Remove Pin=U8A-C6 From Net=B1_DAT
+Remove Pin=U8A-C7 From Net=B1_DAT
+Remove Pin=U8A-D6 From Net=B1_DAT
+Remove Pin=U8A-D7 From Net=B1_DAT
+Remove Pin=U8A-E6 From Net=B1_DAT
+Add Pin To Net: Pin=U8A-A1 Old Net=B1_DAT New Net=B1_DAT13
+Add Pin To Net: Pin=U8A-C4 Old Net=B1_DAT New Net=B1_DAT6
+Add Pin To Net: Pin=U8A-C5 Old Net=B1_DAT New Net=B1_DAT7
+Add Pin To Net: Pin=U8A-C6 Old Net=B1_DAT New Net=B1_DAT9
+Add Pin To Net: Pin=U8A-C7 Old Net=B1_DAT New Net=B1_DAT11
+Add Pin To Net: Pin=U8A-D6 Old Net=B1_DAT New Net=B1_DAT8
+Add Pin To Net: Pin=U8A-D7 Old Net=B1_DAT New Net=B1_DAT12
+Add Pin To Net: Pin=U8A-E6 Old Net=B1_DAT New Net=B1_DAT10
