@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=I2C0_SDA Pin=J8-1
+Removed Pin From Net: NetName=I2C0_SCL Pin=J8-2
+Removed Pin From Net: NetName=V3P3 Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=TOUCH_PAD_RST_N Pin=J8-5
+Removed Pin From Net: NetName=TOUCH_PAD_INT Pin=J8-6
+Added Pin To Net: NetName=TOUCH_PAD_INT Pin=J8-1
+Added Pin To Net: NetName=TOUCH_PAD_RST_N Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=V3P3 Pin=J8-4
+Added Pin To Net: NetName=I2C0_SCL Pin=J8-5
+Added Pin To Net: NetName=I2C0_SDA Pin=J8-6
