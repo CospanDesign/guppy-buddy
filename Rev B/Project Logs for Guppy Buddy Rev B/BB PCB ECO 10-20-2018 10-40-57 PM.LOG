@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C132
+Change Component Designator: OldDesignator=C? NewDesignator=C133
+Change Component Designator: OldDesignator=C? NewDesignator=C134
+Change Component Designator: OldDesignator=C? NewDesignator=C135
+Change Component Designator: OldDesignator=C? NewDesignator=C136
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC133_2
+Added Pin To Net: NetName=NetC135_2 Pin=C135-2
+Added Pin To Net: NetName=NetC135_2 Pin=C136-2
+Added Pin To Net: NetName=NetC135_2 Pin=R39-2
+Added Pin To Net: NetName=NetC135_2 Pin=U8-E8
+Added Net: Name=NetC135_2
+Added Member To Class: ClassName=FPGA Member=Component C132 C_0402_0.1UF_25V
+Added Member To Class: ClassName=FPGA Member=Component C133 1.0uF
+Added Member To Class: ClassName=FPGA Member=Component C134 C_0402_0.1UF_25V
+Added Member To Class: ClassName=FPGA Member=Component C135 1.0uF
+Added Member To Class: ClassName=FPGA Member=Component R39 R_0402_100.0

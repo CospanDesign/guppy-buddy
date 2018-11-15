@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J13 Old Footprint=1X2_HOLES_VERTICAL_FEMALE_HEADRER New Footprint=1X2_HOLES
+Change Component Comment : Designator=J13 Old Comment=J_HDR1X2_THRHOLE_VERT_FEMALE New Comment=2 Holes
+Change Component Kind : Designator=J13 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "J13"; Footprint = "1X2_HOLES"; UniqueID = "\NSULTWYY\FDNBABDT"
+Change component parameters. Clean all parameters for all variants

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=V3P3 Pin=C95-2
+Removed Pin From Net: NetName=V3P3 Pin=C111-2
+Removed Pin From Net: NetName=V3P3 Pin=C116-2
+Removed Pin From Net: NetName=V3P3 Pin=C117-2
+Removed Pin From Net: NetName=V3P3 Pin=U8-A3
+Removed Pin From Net: NetName=V3P3 Pin=U8-A8
+Removed Pin From Net: NetName=V3P3 Pin=U8-A13
+Removed Pin From Net: NetName=V3P3 Pin=U8-F8
+Added Pin To Net: NetName=VADJ1 Pin=C95-2
+Added Pin To Net: NetName=VADJ1 Pin=C111-2
+Added Pin To Net: NetName=VADJ1 Pin=C116-2
+Added Pin To Net: NetName=VADJ1 Pin=C117-2
+Added Pin To Net: NetName=VADJ1 Pin=U8-A3
+Added Pin To Net: NetName=VADJ1 Pin=U8-A8
+Added Pin To Net: NetName=VADJ1 Pin=U8-A13
+Added Pin To Net: NetName=VADJ1 Pin=U8-F8

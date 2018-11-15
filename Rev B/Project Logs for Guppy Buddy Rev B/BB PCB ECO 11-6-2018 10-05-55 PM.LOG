@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=B2_DAT6_P Pin=U8-E2
+Removed Pin From Net: NetName=B2_DAT6_N Pin=U8-H5
+Removed Pin From Net: NetName=B2_DAT12_N Pin=U8-K1
+Removed Pin From Net: NetName=B2_DAT12_P Pin=U8-K3
+Added Pin To Net: NetName=B2_DAT12_P Pin=U8-E2
+Added Pin To Net: NetName=B2_DAT12_N Pin=U8-H5
+Added Pin To Net: NetName=B2_DAT6_N Pin=U8-K1
+Added Pin To Net: NetName=B2_DAT6_P Pin=U8-K3

@@ -1,0 +1,130 @@
+Remove Pin=U8A-A10 From Net=B1_DAT
+Remove Pin=U8A-A11 From Net=B1_DAT
+Remove Pin=U8A-A15 From Net=B1_DAT
+Remove Pin=U8A-A16 From Net=B1_DAT
+Remove Pin=U8A-B9 From Net=B1_DAT
+Remove Pin=U8A-B10 From Net=B1_DAT
+Remove Pin=U8A-B11 From Net=B1_DAT
+Remove Pin=U8A-B12 From Net=B1_DAT
+Remove Pin=U8A-B13 From Net=B1_DAT
+Remove Pin=U8A-B14 From Net=B1_DAT
+Remove Pin=U8A-B15 From Net=B1_DAT
+Remove Pin=U8A-C3 From Net=CART_INT_N
+Remove Pin=U8A-C9 From Net=B1_DAT
+Remove Pin=U8A-C10 From Net=B1_DAT
+Remove Pin=U8A-C11 From Net=B1_DAT
+Remove Pin=U8A-C12 From Net=B1_DAT
+Remove Pin=U8A-C13 From Net=B1_DAT
+Remove Pin=U8A-C14 From Net=B1_DAT
+Remove Pin=U8B-C16 From Net=SDRAM_D
+Remove Pin=U8A-D8 From Net=B1_DAT
+Remove Pin=U8A-D9 From Net=B1_DAT
+Remove Pin=U8A-D10 From Net=B1_DAT
+Remove Pin=U8A-D11 From Net=B1_DAT
+Remove Pin=U8A-D13 From Net=B1_DAT
+Remove Pin=U8B-D15 From Net=SDRAM_D
+Remove Pin=U8B-D16 From Net=SDRAM_D
+Remove Pin=U8A-E9 From Net=B1_DAT
+Remove Pin=U8A-E10 From Net=B1_DAT
+Remove Pin=U8A-E11 From Net=B1_DAT
+Remove Pin=U8B-E14 From Net=SDRAM_D
+Remove Pin=U8B-E16 From Net=SDRAM_D
+Remove Pin=U8A-F9 From Net=B1_DAT
+Remove Pin=U8B-F11 From Net=SDRAM_D
+Remove Pin=U8B-F12 From Net=SDRAM_D
+Remove Pin=U8B-F13 From Net=SDRAM_D
+Remove Pin=U8B-F14 From Net=SDRAM_D
+Remove Pin=U8B-F15 From Net=SDRAM_D
+Remove Pin=U8B-F16 From Net=SDRAM_D
+Remove Pin=U8B-G10 From Net=SDRAM_D
+Remove Pin=U8B-G11 From Net=SDRAM_D
+Remove Pin=U8B-G12 From Net=SDRAM_D
+Remove Pin=U8B-G13 From Net=SDRAM_D
+Remove Pin=U8B-G14 From Net=SDRAM_D
+Remove Pin=U8B-G15 From Net=SDRAM_CS_N
+Remove Pin=U8B-G16 From Net=SDRAM_CAS_N
+Remove Pin=U8B-H12 From Net=SDRAM_RAS_N
+Remove Pin=U8B-H14 From Net=SDRAM_WE_N
+Remove Pin=U8B-H16 From Net=SDRAM_CLK_EN
+Remove Pin=U8B-J10 From Net=SDRAM_ADDR
+Remove Pin=U8B-J11 From Net=SDRAM_BANK
+Remove Pin=U8B-K12 From Net=SDRAM_ADDR
+Remove Pin=U8B-L12 From Net=SDRAM_ADDR
+Remove Pin=U8B-L13 From Net=SDRAM_ADDR
+Remove Pin=U8B-L14 From Net=SDRAM_ADDR
+Remove Pin=U8B-L16 From Net=SDRAM_BANK
+Remove Pin=U8B-M13 From Net=SDRAM_ADDR
+Remove Pin=U8B-M14 From Net=SDRAM_ADDR
+Remove Pin=U8B-M15 From Net=SDRAM_ADDR
+Remove Pin=U8B-M16 From Net=SDRAM_ADDR
+Remove Pin=U8B-N16 From Net=SDRAM_ADDR
+Remove Pin=U8B-P14 From Net=SDRAM_ADDR
+Remove Pin=U8B-P15 From Net=SDRAM_ADDR
+Remove Pin=U8B-P16 From Net=SDRAM_ADDR
+Remove Pin=U8B-R14 From Net=SDRAM_DM_L
+Remove Pin=U8B-R15 From Net=SDRAM_DM_H
+Add Pin To Net: Pin=U8A-A1 Old Net=NetU8_A1 New Net=B1_DAT15
+Add Pin To Net: Pin=U8A-A2 Old Net=NetU8_A2 New Net=B1_DAT16
+Add Pin To Net: Pin=U8A-A5 Old Net=NetU8_A5 New Net=B1_DAT19
+Add Pin To Net: Pin=U8A-A6 Old Net=NetU8_A6 New Net=B1_DAT20
+Add Pin To Net: Pin=U8A-A7 Old Net=NetU8_A7 New Net=B1_DAT21
+Add Pin To Net: Pin=U8A-A10 Old Net=B1_DAT New Net=B1_DAT25
+Add Pin To Net: Pin=U8A-A11 Old Net=B1_DAT New Net=B1_DAT26
+Add Pin To Net: Pin=U8A-B3 Old Net=NetU8_B3 New Net=B1_DAT12
+Add Pin To Net: Pin=U8A-B4 Old Net=NetU8_B4 New Net=B1_DAT13
+Add Pin To Net: Pin=U8A-B5 Old Net=NetU8_B5 New Net=B1_DAT14
+Add Pin To Net: Pin=U8A-B6 Old Net=NetU8_B6 New Net=B1_DAT17
+Add Pin To Net: Pin=U8A-B7 Old Net=NetU8_B7 New Net=B1_DAT18
+Add Pin To Net: Pin=U8A-B8 Old Net=NetU8_B8 New Net=B1_DAT22
+Add Pin To Net: Pin=U8A-B9 Old Net=B1_DAT New Net=B1_DAT23
+Add Pin To Net: Pin=U8B-B16 Old Net=NetU8_B16 New Net=SDRAM_D14
+Add Pin To Net: Pin=U8A-C3 Old Net=CART_INT_N New Net=B1_DAT11
+Add Pin To Net: Pin=U8A-C4 Old Net=NetU8_C4 New Net=B1_DAT9
+Add Pin To Net: Pin=U8A-C5 Old Net=NetU8_C5 New Net=B1_DAT10
+Add Pin To Net: Pin=U8A-C6 Old Net=NetU8_C6 New Net=B1_DAT8
+Add Pin To Net: Pin=U8A-C7 Old Net=NetU8_C7 New Net=B1_DAT7
+Add Pin To Net: Pin=U8B-C16 Old Net=SDRAM_D New Net=SDRAM_D12
+Add Pin To Net: Pin=U8A-D3 Old Net=NetU8_D3 New Net=B1_DAT6
+Add Pin To Net: Pin=U8A-D4 Old Net=NetU8_D4 New Net=B1_DAT5
+Add Pin To Net: Pin=U8A-D5 Old Net=NetU8_D5 New Net=B1_DAT4
+Add Pin To Net: Pin=U8A-D6 Old Net=NetU8_D6 New Net=B1_DAT3
+Add Pin To Net: Pin=U8A-D7 Old Net=NetU8_D7 New Net=B1_DAT2
+Add Pin To Net: Pin=U8B-D14 Old Net=NetU8_D14 New Net=SDRAM_D11
+Add Pin To Net: Pin=U8B-D15 Old Net=SDRAM_D New Net=SDRAM_D9
+Add Pin To Net: Pin=U8B-D16 Old Net=SDRAM_D New Net=SDRAM_ADDR12
+Add Pin To Net: Pin=U8A-E5 Old Net=NetU8_E5 New Net=B1_DAT1
+Add Pin To Net: Pin=U8A-E6 Old Net=NetU8_E6 New Net=B1_DAT0
+Add Pin To Net: Pin=U8B-E13 Old Net=NetU8_E13 New Net=SDRAM_D10
+Add Pin To Net: Pin=U8B-E14 Old Net=SDRAM_D New Net=SDRAM_D8
+Add Pin To Net: Pin=U8B-E16 Old Net=SDRAM_D New Net=SDRAM_DM_H
+Add Pin To Net: Pin=U8A-F9 Old Net=B1_DAT New Net=CART_INT_N
+Add Pin To Net: Pin=U8B-F12 Old Net=SDRAM_D New Net=SDRAM_ADDR8
+Add Pin To Net: Pin=U8B-F13 Old Net=SDRAM_D New Net=SDRAM_ADDR11
+Add Pin To Net: Pin=U8B-F14 Old Net=SDRAM_D New Net=SDRAM_ADDR5
+Add Pin To Net: Pin=U8B-F15 Old Net=SDRAM_D New Net=SDRAM_ADDR7
+Add Pin To Net: Pin=U8B-F16 Old Net=SDRAM_D New Net=SDRAM_ADDR4
+Add Pin To Net: Pin=U8B-G13 Old Net=SDRAM_D New Net=SDRAM_D13
+Add Pin To Net: Pin=U8B-G14 Old Net=SDRAM_D New Net=SDRAM_ADDR6
+Add Pin To Net: Pin=U8B-G15 Old Net=SDRAM_CS_N New Net=SDRAM_D15
+Add Pin To Net: Pin=U8B-G16 Old Net=SDRAM_CAS_N New Net=SDRAM_ADDR9
+Add Pin To Net: Pin=U8B-H13 Old Net=NetU8_H13 New Net=SDRAM_DM_L
+Add Pin To Net: Pin=U8B-H14 Old Net=SDRAM_WE_N New Net=SDRAM_CLK_EN
+Add Pin To Net: Pin=U8B-H16 Old Net=SDRAM_CLK_EN New Net=SDRAM_D4
+Add Pin To Net: Pin=U8B-J13 Old Net=NetU8_J13 New Net=SDRAM_BANK0
+Add Pin To Net: Pin=U8B-J14 Old Net=NetU8_J14 New Net=SDRAM_ADDR3
+Add Pin To Net: Pin=U8B-J15 Old Net=NetU8_J15 New Net=SDRAM_RAS_N
+Add Pin To Net: Pin=U8B-J16 Old Net=NetU8_J16 New Net=SDRAM_CAS_N
+Add Pin To Net: Pin=U8B-K14 Old Net=NetU8_K14 New Net=SDRAM_D6
+Add Pin To Net: Pin=U8B-K15 Old Net=NetU8_K15 New Net=SDRAM_BANK1
+Add Pin To Net: Pin=U8B-K16 Old Net=NetU8_K16 New Net=SDRAM_ADDR0
+Add Pin To Net: Pin=U8B-L14 Old Net=SDRAM_ADDR New Net=SDRAM_CS_N
+Add Pin To Net: Pin=U8B-L16 Old Net=SDRAM_BANK New Net=SDRAM_ADDR2
+Add Pin To Net: Pin=U8B-M14 Old Net=SDRAM_ADDR New Net=SDRAM_WE_N
+Add Pin To Net: Pin=U8B-M15 Old Net=SDRAM_ADDR New Net=SDRAM_ADDR10
+Add Pin To Net: Pin=U8B-M16 Old Net=SDRAM_ADDR New Net=SDRAM_ADDR1
+Add Pin To Net: Pin=U8B-N16 Old Net=SDRAM_ADDR New Net=SDRAM_D7
+Add Pin To Net: Pin=U8B-P14 Old Net=SDRAM_ADDR New Net=SDRAM_D2
+Add Pin To Net: Pin=U8B-P15 Old Net=SDRAM_ADDR New Net=SDRAM_D0
+Add Pin To Net: Pin=U8B-P16 Old Net=SDRAM_ADDR New Net=SDRAM_D5
+Add Pin To Net: Pin=U8B-R14 Old Net=SDRAM_DM_L New Net=SDRAM_D3
+Add Pin To Net: Pin=U8B-R15 Old Net=SDRAM_DM_H New Net=SDRAM_D1

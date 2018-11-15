@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDDD_V3P3 Pin=R40-1
+Added Component: Designator=T3(TestPointSmall)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(TestPointSmall)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T5(TestPointSmall)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T7(TestPointSmall)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetT3_1 Pin=T3-1
+Added Pin To Net: NetName=NetT3_1 Pin=U9-48
+Added Net: Name=NetT3_1
+Added Pin To Net: NetName=NetT4_1 Pin=T4-1
+Added Pin To Net: NetName=NetT4_1 Pin=U9-13
+Added Net: Name=NetT4_1
+Added Pin To Net: NetName=NetT5_1 Pin=T5-1
+Added Pin To Net: NetName=NetT5_1 Pin=U9-27
+Added Net: Name=NetT5_1
+Added Pin To Net: NetName=NetT7_1 Pin=T7-1
+Added Pin To Net: NetName=NetT7_1 Pin=U9-34
+Added Net: Name=NetT7_1
