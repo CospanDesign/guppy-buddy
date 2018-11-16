@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=I2C_PWR_ALERT Pin=U2-P12
+Added Pin To Net: NetName=I2C_PWR_ALERT Pin=U9-41
+Added Net: Name=I2C_PWR_ALERT
