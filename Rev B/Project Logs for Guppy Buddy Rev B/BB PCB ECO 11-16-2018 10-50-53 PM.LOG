@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LCD_AC_BIAS_EN Pin=J10-34
+Added Pin To Net: NetName=R_LCD_AC_BIAS_EN Pin=J10-34
