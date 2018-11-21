@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TOUCH_RESET_N Pin=U2-P1
+Removed Pin From Net: NetName=FPGA_RST_N Pin=U2-P2
+Added Pin To Net: NetName=GPMC_CSN2 Pin=U2-P1
+Added Pin To Net: NetName=GPMC_CSN1 Pin=U2-P2
+Added Pin To Net: NetName=TOUCH_RESET_N Pin=U2-R14
+Added Pin To Net: NetName=FPGA_RST_N Pin=U2-T14

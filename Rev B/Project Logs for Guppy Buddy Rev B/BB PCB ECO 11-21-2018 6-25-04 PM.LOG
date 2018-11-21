@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GPMC_CSN1 Pin=U8-P8
+Added Net: Name=GPMC_CSN1
+Added Pin To Net: NetName=GPMC_CSN2 Pin=U8-P7
+Added Net: Name=GPMC_CSN2
+Added Class: Name=GPMC_CSN[2..0]
