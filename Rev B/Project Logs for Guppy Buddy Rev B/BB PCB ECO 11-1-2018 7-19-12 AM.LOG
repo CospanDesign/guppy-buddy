@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PLL1_GND Pin=C166-1
-Removed Pin From Net: NetName=PLL1_GND Pin=C167-1
-Removed Pin From Net: NetName=PLL0_GND Pin=C168-1
-Removed Pin From Net: NetName=PLL0_GND Pin=C169-1
-Added Pin To Net: NetName=PLL0_GND Pin=C166-1
-Added Pin To Net: NetName=PLL0_GND Pin=C167-1
-Added Pin To Net: NetName=PLL1_GND Pin=C168-1
-Added Pin To Net: NetName=PLL1_GND Pin=C169-1

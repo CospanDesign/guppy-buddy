@@ -868,24 +868,24 @@ DocumentPath=Project Outputs for Guppy Buddy Rev B\Design Rule Check - BB.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=B
+Name=Company
+Value=Cospan Design LLC
 
 [Parameter2]
-Name=Project
-Value=Guppy Buddy
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Guppy Buddy
 
 [Parameter5]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=B
 
 [Configuration1]
 Name=Default Configuration
@@ -1009,7 +1009,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPEBFF0A (HP ENVY 4500 series)
+TargetPrinter=fast-lab-printer (HP Color LaserJet MFP M477fdn)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

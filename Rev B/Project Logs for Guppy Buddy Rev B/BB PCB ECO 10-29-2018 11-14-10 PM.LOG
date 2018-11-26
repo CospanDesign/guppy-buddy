@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=B1_CLK0 Pin=U8-C8
-Removed Pin From Net: NetName=B1_CLK1 Pin=U8-F7
-Added Pin To Net: NetName=B1_CLK1 Pin=U8-C8
-Added Pin To Net: NetName=B1_CLK0 Pin=U8-F7

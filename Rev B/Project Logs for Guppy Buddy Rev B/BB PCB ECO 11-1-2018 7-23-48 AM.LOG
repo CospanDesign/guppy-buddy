@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GPMC_AD13 Pin=U8-L11
-Removed Pin From Net: NetName=GPMC_ADVN_ALE Pin=U8-N5
-Added Pin To Net: NetName=GPMC_ADVN_ALE Pin=U8-P6
-Added Pin To Net: NetName=GPMC_AD13 Pin=U8-T8

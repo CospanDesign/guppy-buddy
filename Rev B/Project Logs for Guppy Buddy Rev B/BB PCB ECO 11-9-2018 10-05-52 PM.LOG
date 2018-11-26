@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=VDDD_V3P3 Pin=R135-1
-Removed Pin From Net: NetName=VDDD_V3P3 Pin=R185-1
-Removed Pin From Net: NetName=VDDD_V3P3 Pin=R189-1
-Added Pin To Net: NetName=MAIN_REG_EN Pin=R40-2
-Added Pin To Net: NetName=MAIN_REG_EN Pin=U9-13
-Added Pin To Net: NetName=MAIN_REG_EN Pin=U9-27
-Added Pin To Net: NetName=MAIN_REG_EN Pin=U9-34
-Added Pin To Net: NetName=MAIN_REG_EN Pin=U9-48
-Added Net: Name=MAIN_REG_EN

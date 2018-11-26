@@ -1,4 +1,0 @@
-Remove Pin=U8A-A7 From Net=B1_DAT
-Remove Pin=U8A-B7 From Net=B1_DAT
-Add Pin To Net: Pin=U8A-A7 Old Net=B1_DAT New Net=B1_DAT20
-Add Pin To Net: Pin=U8A-B7 Old Net=B1_DAT New Net=B1_DAT21
